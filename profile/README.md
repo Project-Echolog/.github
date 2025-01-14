@@ -1,5 +1,7 @@
 # Echolog
 
+(This explanation has taken from the main echolog repository in this organisation)
+
 Games are more than just entertainment; they’re experiences. They tell stories, challenge us, and connect people across the globe. But with so many games out there, how do we decide which ones are worth our time? How do we find honest opinions and share our own voice in this vast games?
 That’s where **ECHOLOG** comes in. We set out to build something simple, yet useful —a platform where gamers engage, express, and create collection of their favorite games. A space to discover games, rate them, review them, and help shape the gaming community in a meaningful way.
 
